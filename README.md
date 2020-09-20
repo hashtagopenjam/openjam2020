@@ -2,7 +2,7 @@
 
 ## Game Pitch
 
-* **Name**: ???
+* **Name**: 
 * **Concept**: Guide an assortment of objects to stay carefully aloft while they float across the screen
 * **Elevator Pitch**:
   * 
