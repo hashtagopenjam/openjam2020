@@ -31,11 +31,6 @@ window/stretch/aspect="keep"
 
 theme/use_hidpi=true
 
-[input_devices]
-
-pointing/emulate_touch_from_mouse=true
-pointing/emulate_mouse_from_touch=false
-
 [rendering]
 
 environment/default_clear_color=Color( 0.737255, 0.988235, 1, 1 )
